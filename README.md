@@ -1,1 +1,0 @@
-# Autism_Spectrum_Disorder_Detection_For_Adults
