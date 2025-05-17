@@ -13,3 +13,8 @@ from sklearn.metrics import ConfusionMatrixDisplay, classification_report
 from sklearn.impute import SimpleImputer
 import joblib
 import os
+
+# Suppress Warnings
+import warnings
+warnings.filterwarnings('ignore')
+ 
